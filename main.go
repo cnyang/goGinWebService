@@ -27,7 +27,7 @@ var (
 // @description  智慧建築平台後端HA API service的說明文件
 
 // @contact.name   cnyang
-// @contact.email  cnyang@cht.com.tw
+// @contact.email  cheinnn@gmail.com
 
 // @host      10.1.1.128:8002
 // @BasePath  /api/ha
